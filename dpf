@@ -1,0 +1,67 @@
+[33mcommit 5bc8f0cbde1b9a0274ae4df651d575abf914eb39[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: e8d7169 9c136b5
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 21:00:06 2021 +0100
+
+    Solucionado conflicto bibliografia
+
+[33mcommit e8d71694ae52774e71dd63480c01d5500040849d[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 20:55:01 2021 +0100
+
+    Añadida nueva referencia bibliografica
+
+[33mcommit 9c136b53bd5d6117f1121186ff999ae3d4849a09[m[33m ([m[1;32mbibliografia[m[33m)[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 20:50:07 2021 +0100
+
+    Añadida nueva referencia bibliografica
+
+[33mcommit ac46c2511a00a44888f9340e925f75d5aabdf1a9[m
+Merge: 22107dd 4d3903a
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 20:41:35 2021 +0100
+
+    Merge branch 'bibliografia'
+
+[33mcommit 4d3903a3509ffab435230e08059e73672ec22770[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 20:38:57 2021 +0100
+
+    Añadida primera referencia bibliografia
+
+[33mcommit 22107dd843d515209ffaec5c26b3c7e3efb4c25e[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 20:35:34 2021 +0100
+
+    Añadido capitulo 4
+
+[33mcommit e21bbd54e7b990a2d79153723c56df2a8c032740[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 18:54:17 2021 +0100
+
+    Añadido capitulo 3
+
+[33mcommit 0c6d876240ad38b4d6733f1653af873a1c0b0721[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 18:50:01 2021 +0100
+
+    Añadido capitulo 2
+
+[33mcommit 4bcca71e5be739474bc7953c6ae0c2aaaf5a35fe[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 18:47:02 2021 +0100
+
+    Añadido capitulo 1
+
+[33mcommit a59c0c4e62aba83304f7909ad7a8dad98b85bc30[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 18:43:27 2021 +0100
+
+    Añadido capitulo 3 sobre gestion de ramas al indice
+
+[33mcommit 2d08a4df4381c875145e40724a4f2ec950139506[m
+Author: Jorge Murillo <6683jmurillo@e-itaca.es>
+Date:   Tue Feb 23 18:36:55 2021 +0100
+
+    Añadido indice del libro
